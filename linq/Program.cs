@@ -15,7 +15,6 @@ namespace linq
 
             // Q2: select all those who have "Rademacher" in their name into a new object containing only "name" and "city" as properties.
             // Print name/city from results on console window (one on each line)
-
         
         }
     }
